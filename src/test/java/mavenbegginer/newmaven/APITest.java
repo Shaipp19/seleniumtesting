@@ -10,5 +10,7 @@ public class APITest {
 	
 	public void test3() {
 		System.out.println("Test 3 in API Testing");
+		System.out.println("Line added here");
+
 	}
 }
